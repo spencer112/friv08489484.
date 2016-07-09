@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+friv0.tua.one	TRUE	/	FALSE	1999999999	PHPSESSID	b8d6229fe4779235638d2c5207f84faf
+friv0.tua.one	TRUE	/	FALSE	1999999999	gamecookie	another-planet
+friv0.tua.one	TRUE	/	FALSE	1999999999	numplays	634
+
